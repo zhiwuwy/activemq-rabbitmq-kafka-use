@@ -1,0 +1,12 @@
+# Project exclude paths
+/activemq/am-with-sprimg-c/target/
+/activemq/am-with-spring-p/target/
+/activemq/asyncApp/target/
+/activemq/delayOrder/target/
+/activemq/no-spring/target/
+/kafka/kafka-no-spring/target/
+/rabbitmq/native/target/
+/rabbitmq/rq-depot/target/
+/rabbitmq/rq-order/target/
+/rabbitmq/rq-spring-with/target/
+/rabbitmq/rq-spring-with-consumer/target/
